@@ -18,7 +18,7 @@ This project demonstrates how to build a responsive image grid layout using HTML
 2. Open `index.html` in your browser
 
 ## 🌍 Live Preview
-
+https://abeyyyyyy.github.io/image-grid-layout-css-grid/
 
 ## Roadmap_project
 https://roadmap.sh/projects/image-grid
